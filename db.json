@@ -1,0 +1,205 @@
+{
+  "journaling-prompts": [
+    {
+      "id": 1,
+      "question": "Was sind drei Dinge, für die ich heute Morgen dankbar bin?",
+      "session-typ": 1,
+      "standard": true
+    },
+    {
+      "id": 2,
+      "question": "Was sind drei Gefühle, die ich heute fühlen möchte? Was kann mich dabei unterstützen, diese Gefühle zu fühlen?",
+      "session-typ": 1,
+      "standard": false
+    },
+    {
+      "id": 3,
+      "question": "Wie möchte ich mich am Ende des Tages fühlen? Wie kann ich dafür sorgen?",
+      "session-typ": 1,
+      "standard": true
+    },
+    {
+      "id": 4,
+      "question": "Was ist heute meine Priorität? Warum ist das meine Priorität?",
+      "session-typ": 1,
+      "standard": true
+    },
+    {
+      "id": 5,
+      "question": "Was sind drei Dinge, die ich heute schaffen möchte?",
+      "session-typ": 1,
+      "standard": true
+    },
+    {
+      "id": 6,
+      "question": "Was möchte ich heute für mich tun?",
+      "session-typ": 1,
+      "standard": true
+    },
+    {
+      "id": 7,
+      "question": "Worauf freue ich mich heute?",
+      "session-typ": 1,
+      "standard": true
+    },
+    {
+      "id": 8,
+      "question": "Welchem Lebensbereich möchte ich heute besonders viel Zeit und Energie schenken? Warum genau diesem?",
+      "session-typ": 1,
+      "standard": true
+    },
+    {
+      "id": 9,
+      "question": "Wie kann ich mir heute etwas Gutes tun?",
+      "session-typ": 1,
+      "standard": false
+    },
+    {
+      "id": 10,
+      "question": "Woran darf ich mich im Laufe des Tages immer wieder erinnern?",
+      "session-typ": 1,
+      "standard": true
+    },
+    {
+      "id": 11,
+      "question": "Was habe ich gestern gemacht, worauf ich heute stolz bin?",
+      "session-typ": 1,
+      "standard": true
+    },
+    {
+      "id": 12,
+      "question": "Was sind zurzeit meine drei wichtigsten Ziele? Wie kann ich ihnen heute einen Schritt näher kommen?",
+      "session-typ": 1,
+      "standard": false
+    },
+    {
+      "id": 13,
+      "question": "Was braucht mein Körper heute?",
+      "session-typ": 1,
+      "standard": false
+    },
+    {
+      "id": 14,
+      "question": "Welche positiven Worte/positive Affirmation dürfen/darf mich heute durch meinen Tag begleiten?",
+      "session-typ": 1,
+      "standard": false
+    },
+    {
+      "id": 15,
+      "question": "Wer möchte ich heute für mich und andere sein?",
+      "session-typ": 1,
+      "standard": false
+    },
+    {
+      "id": 16,
+      "question": "Was war das Beste an meinem Tag heute?",
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 17,
+      "question": "Was ist etwas, das ich heute gelernt habe?",
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 18,
+      "question": "Was möchte ich vom heutigen Tag nicht vergessen?",
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 19,
+      "question": "Was ist eine gute/schöne/besondere Sache, die heute passiert ist?",
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 20,
+      "question": "Was sind zurzeit meine drei größten Ziele? Was habe ich heute gemacht, um ihnen einen Schritt näher zu kommen? Was kann ich morgen tun, um ihnen näher zu kommen?",
+
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 21,
+      "question": "Was sind drei Erfolge, die ich feiern kann?",
+
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 22,
+      "question": "Wie bin ich heute ich selber geblieben?",
+
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 23,
+      "question": "Wie viel Zeit habe ich heute mit den Personen verbracht, die mir am wichtigsten sind? Wie kann ich morgen (noch mehr) Zeit mit ihnen verbringen?",
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 24,
+      "question": "Wofür bin ich heute besonders dankbar?",
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 25,
+      "question": "Was ist wirklich wichtig und darf auf meiner To-Do Liste stehen bleiben?",
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 26,
+      "question": "Was bringt mich zurzeit nicht weiter und darf deshalb von der Liste gehen?",
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 27,
+      "question": "Wenn ich mein Leben so weiterlebe wie heute - würde ich dann zu der Version von mir werden, die ich sein möchte?",
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 28,
+      "question": "Was habe ich heute gut gemacht?",
+      "session-typ": 2,
+      "standard": true
+    },
+    {
+      "id": 29,
+      "question": "Wie kann ich morgen noch besser machen? Was kann ich morgen anders machen, damit der Tag noch besser wird?",
+      "session-typ": 2,
+      "standard": true
+    }
+  ],
+  "session-typ": [
+    {
+      "id": 1,
+      "session-title": "Reflexion am Morgen",
+      "session": "morning"
+    },
+    {
+      "id": 3,
+      "session-title": "Reflexion der Woche",
+      "session": "week-reflection"
+    },
+    {
+      "id": 2,
+      "session-title": "Reflexion am Abend",
+      "session": "evening"
+    }
+  ],
+  "session": [
+    {
+      "id": 1,
+      "session-date": "",
+      "prompts": [1]
+    }
+  ]
+}
